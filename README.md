@@ -7,7 +7,7 @@ Redesign of the Platform front-end, for study purposes.
 ### 🗺️ Roadmap
 
 - [x] Create Figma Hi-Fi
-- [ ] Code Home Page
+- [ ] Code Home Page - _In Progress_
 - [ ] Create mobile design concept
 - [ ] Code mobile version
 
